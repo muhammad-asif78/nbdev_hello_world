@@ -1,0 +1,6 @@
+repos:
+  - repo: https://github.com/fastai/nbdev
+    rev: 2.4.6  # your installed nbdev version
+    hooks:
+      - id: nbdev_export
+        language: system  # <-- Use the current Python environment
