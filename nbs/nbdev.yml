@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_hello_world"
+  site-url: "https://muhammad-asif78.github.io/nbdev_hello_world"
+  description: "hello this is my first repo"
+  repo-branch: main
+  repo-url: "https://github.com/muhammad-asif78/nbdev_hello_world"
