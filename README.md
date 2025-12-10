@@ -65,3 +65,19 @@ Fill me in please! Don’t forget code examples:
 ```
 
     2
+
+``` python
+# hello my name is asif
+```
+
+------------------------------------------------------------------------
+
+### say_hello
+
+>  say_hello (to)
+
+*Say hello to somebody*
+
+``` python
+say_hello("Isaac")
+```
